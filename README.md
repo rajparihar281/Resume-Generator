@@ -363,14 +363,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Email: pariharraj401@gmail.com
 - Phone: 9987357067
 
-## 🙏 Acknowledgments
-
-- Flutter team for the amazing framework
-- Riverpod for state management
-- Hive for local storage solution
-- Material Design for UI guidelines
-- Open source community for inspiration
-
 ---
 
 ## 📞 Support
